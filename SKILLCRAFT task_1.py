@@ -18,7 +18,7 @@ def Kelvin_to_fahrenheit():
     Fahrenheit = (Kelvin - 273.15)*1.8 + 32
     print("The temperature in Fahrenheit is: ",Fahrenheit)
     
-def ():
+def  Celsius_to_fahrenheit():
     Celsius = float(input("Enter temperature in Celsius: "))
     Fahrenheit = (Celsius*1.8)+32
     print("The temperature in Fahrenheit is: ",Fahrenheit)
